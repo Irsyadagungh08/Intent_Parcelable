@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Intent Parcelable</string>
+    <string name="dial_number">Dial Number</string>
+    <string name="move_with_result">Pindah untuk Result</string>
+    <string name="result_from_activity">Hasil</string>
+</resources>
